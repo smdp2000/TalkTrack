@@ -1,0 +1,42 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url('robpeers_1415913951_76.jpg');
+}
+.heading {
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 100px;
+    color: white;
+}
+
+.subheading {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 0px;
+    color: white;
+
+}
+
+.form {
+    margin-bottom: 100px;
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+form {
+    margin-bottom: 100px;
+    margin-top: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+    color: white;
+
+}
+
+.field {
+    width: 500px;
+}
+
+.formclass {
+    padding-left: 120px;
+}
