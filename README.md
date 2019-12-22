@@ -25,5 +25,10 @@ python3 script.py
 
 **Step 5** And now an input field will be shown, You have to Enter the path of the folder where all the audio files are stored
 
+
+
+![alt text](https://github.com/smdp2000/CodeBreak1.0-Mulithreads-project/blob/master/homepage.png)
+
+
 **Step 6** After Analysing the Audio files you will get the outpus as different graphs with different labels, Along with that you will get
 to know which label came from which audio file
