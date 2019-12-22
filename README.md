@@ -20,7 +20,7 @@ pip3 install -r requirements.txt
 **Step 4** Now run the Server, by this command -
 
 ```sh
-python3 app.py
+python3 script.py
 ```
 
 **Step 5** And now an input field will be shown, You have to Enter the path of the folder where all the audio files are stored
